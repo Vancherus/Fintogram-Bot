@@ -1,6 +1,6 @@
-## <h1 align="center">Fintogram - асинхронный telegram-бот, позволяющий сохранять мыслеформы (англ. thoughtforms) и делиться ими с пользователями.</a>
+## <h1 align="center">Fintogram - асинхронный telegram-бот, позволяющий сохранять мыслеформы (англ. thoughtforms) и делиться ими с пользователями.</h1>
 <p align="center">
-  <img width="494" height="497" alt="логотип" src="https://github.com/user-attachments/assets/8c44599f-6f44-4480-b8c5-2da4a500f1eb" />
+  <img width="400" height="400" alt="изображение" src="https://github.com/user-attachments/assets/d888f5a9-1500-44b6-9798-7f2eae7eeecd" />
 </p>  
 <b>Мыслеформа</b> - это цифровой контейнер мысли/идеи, которому присваивается собственный идентификатор. 
 <hr>
